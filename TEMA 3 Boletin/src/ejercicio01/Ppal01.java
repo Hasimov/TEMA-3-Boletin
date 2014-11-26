@@ -7,6 +7,7 @@ public class Ppal01 {
 
 		
 		System.out.println("Groundcontrol to major Tom");
+		System.out.println("hola carabola");
 	}
 
 }
