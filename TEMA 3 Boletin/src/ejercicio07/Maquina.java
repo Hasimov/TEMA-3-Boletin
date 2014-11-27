@@ -8,7 +8,7 @@ public class Maquina {
 
 private int ticketVend;
 private double contraseña;
-
+/*debe tener un atributo que sea ticket*/
 
 /*2.Constructores*/
 
